@@ -32,3 +32,5 @@ depcomp
 hydrogen-crypto.zip
 libhydrogen.a
 tests/tests
+bin/
+obj/

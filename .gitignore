@@ -17,6 +17,7 @@
 *.status
 *.su
 *.tar.*
+Makefile
 *~
 .DS_Store
 .deps
